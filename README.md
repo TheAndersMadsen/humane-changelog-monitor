@@ -1,10 +1,10 @@
 # Humane Changelog Monitor
 
-Humane Changelog Monitor is a Python script that monitors the Humane AI changelog for updates and posts them to a Discord webhook. It allows you to stay up-to-date with the latest changes and improvements in the Humane AI software.
+Humane Changelog Monitor is a Python script that monitors Humane's changelog for updates and posts them to a Discord webhook. It allows you to stay up-to-date with the latest changes and improvements in Humane's software.
 
 ## Features
 
-- Retrieves the latest updates from the Humane AI changelog URL
+- Retrieves the latest updates from the Humane's changelog URL
 - Parses the update content and extracts relevant information
 - Posts the updates to a specified Discord webhook
 - Keeps track of previously posted updates to avoid duplicates
@@ -57,7 +57,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Acknowledgements
 
-- [Humane AI](https://humane.com/) for providing the changelog data.
+- [Humane](https://humane.com/) for providing the changelog data.
 - [Python](https://www.python.org/) for the programming language.
 - [Requests](https://docs.python-requests.org/) for making HTTP requests.
 - [python-dotenv](https://github.com/theskumar/python-dotenv) for loading environment variables from a `.env` file.
