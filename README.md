@@ -29,6 +29,7 @@ Humane Changelog Monitor is a Python script that monitors Humane's changelog for
 
 4. Create a `.env` file in the project directory and add the following variables:
    ```
+   HUMANE_CHANGELOG_URL=https://humane.com/_next/data/Mn3JPtzOKLUGxyc91M2WU/en/changelog.json
    DISCORD_WEBHOOK_URL=your-discord-webhook-url
    ```
    Replace `your-discord-webhook-url` with the actual URL of your Discord webhook.
