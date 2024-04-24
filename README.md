@@ -35,7 +35,7 @@ Humane Changelog Monitor is a Python script that monitors Humane's changelog for
 
 ## Usage
 
-To start monitoring the Humane AI changelog, run the following command:
+To start monitoring Humane's changelog page, run the following command:
 ```
 python humane_changelog_monitor.py
 ```
